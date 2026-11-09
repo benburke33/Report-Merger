@@ -1,0 +1,16 @@
+region,product,units,revenue
+West,Lavender Candle,54,$914.72
+West,Cedar Candle,19,$401.54
+West,Gift Set,61,"$2,665.71"
+East,Lavender Candle,17,$290.67
+East,Cedar Candle,69,"$1,491.12"
+East,Soy Wax Melts,8,$73.56
+East,Gift Set,15,$671.17
+North,Lavender Candle,61,"$1,081.03"
+North,Cedar Candle,23,$501.06
+North,Soy Wax Melts,13,$120.85
+North,Gift Set,70,"$3,089.67"
+South,Lavender Candle,16,$280.16
+South,Cedar Candle,18,$372.72
+South,Soy Wax Melts,35,$331.55
+South,Gift Set,56,"$2,465.55"

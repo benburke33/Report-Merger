@@ -1,0 +1,16 @@
+region,product,units,revenue
+West,Lavender Candle,9,158.65
+West,Cedar Candle,16,344.58
+West,Soy Wax Melts,65,595.04
+West,Gift Set,10,415.07
+East,Lavender Candle,40,697.08
+East,Cedar Candle,53,1133.34
+East,Soy Wax Melts,22,199.79
+East,Gift Set,63,2609.67
+North,Lavender Candle,52,892.77
+North,Cedar Candle,21,460.42
+North,Soy Wax Melts,13,117.37
+North,Gift Set,30,1307.2
+South,Lavender Candle,54,929.96
+South,Soy Wax Melts,13,119.07
+South,Gift Set,47,2095.62
